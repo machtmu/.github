@@ -4,7 +4,7 @@
 
 ## About MACH
 
-MACH is Toronto Metropolitan University's premier liquid rocketry team, dedicated to advancing aerospace engineering through hands-on research, design, and testing of cutting-edge propulsion systems. Our mission is to push the boundaries of student rocketry while preparing the next generation of aerospace engineers for careers in the space industry.
+MACH is Toronto Metropolitan University's liquid rocketry team, dedicated to advancing aerospace engineering through hands-on research, design, and testing of cutting-edge propulsion systems. Our mission is to push the boundaries of student rocketry while preparing the next generation of aerospace engineers for careers in the space industry.
 
 ## Contact
 
