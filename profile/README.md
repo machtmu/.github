@@ -1,6 +1,6 @@
 # MACH - TMU Liquid Rocketry
 
-![Hotfire Test](firing.gif)
+<img src="firing.gif" alt="Hotfire Test" height="300">
 
 ## About MACH
 
