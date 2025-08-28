@@ -1,6 +1,6 @@
 # MACH - TMU Liquid Rocketry
 
-![MACH Hero](docs/assets/images/mars/hero.jpg)
+![Hotfire Test](firing.gif)
 
 ## About MACH
 
@@ -11,20 +11,16 @@ MACH is Toronto Metropolitan University's premier liquid rocketry team, dedicate
 ### 🚀 Liquid Propulsion Systems
 We design, build, and test sophisticated liquid rocket engines including our flagship GAR-E and SPRINT systems. Our engines utilize advanced injector designs, precision machined components, and comprehensive instrumentation for data collection and analysis.
 
-![Team Photo](docs/assets/images/mars/group_photo.jpg)
+![Hotfire Testing in Action](firing.gif)
 
 ### 🔬 Advanced Avionics
 Our avionics division develops custom PCB modules for flight computers, sensor systems, telemetry, and recovery mechanisms. We create everything from power distribution systems to GPS modules and status monitoring boards.
-
-![PCB Development](docs/assets/images/mars/pcb.jpg)
 
 ### 🧪 Test Campaigns
 We conduct rigorous testing programs including:
 - **Hot Fire Testing** - Full-scale engine burns with comprehensive data collection
 - **Cold Flow Testing** - Fluid dynamics validation and system integration verification  
 - **Component Testing** - Individual subsystem validation and characterization
-
-![Engine Assembly](docs/SPRINT/Assem1.PNG)
 
 ## Our Projects
 
@@ -40,8 +36,6 @@ Our latest propulsion system development featuring:
 - Advanced injector designs
 - Integrated control systems
 - Real-time monitoring and telemetry
-
-![Electronics Ground Support](docs/SPRINT/EGSE.JPG)
 
 ### Mojave Sphinx
 A flight-weight bipropellant liquid rocket designed for competition and research, representing the culmination of our propulsion and avionics expertise.
@@ -72,8 +66,6 @@ We're always looking for passionate students interested in:
 - **Launch Canada** - Annual competition featuring our flight-ready systems
 - **FAR-OUT** - Friends of Amateur Rocketry competitions
 - **Student Research** - Published findings and technical presentations
-
-![Control Panels](docs/SPRINT/front_panel.png)
 
 ---
 
