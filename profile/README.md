@@ -1,8 +1,8 @@
 # MACH - TMU Liquid Rocketry
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machtmu/.github/main/profile/firing.gif" alt="Hotfire Test" height="300">
-  <p>Mach Hotfire LC 2025</p>
+  <img src="https://raw.githubusercontent.com/machtmu/.github/main/profile/firing.gif" alt="Seraphina hot fire test on August 6, 2026" height="300">
+  <p>Seraphina Hotfire - August 6, 2026</p>
 </div>
 
 ## About MACH
@@ -14,4 +14,3 @@ MACH is Toronto Metropolitan University's liquid rocketry team, dedicated to adv
 **Email**: mach@torontomu.ca  
 **Location**: Toronto, Ontario, Canada  
 **University**: Toronto Metropolitan University
-
